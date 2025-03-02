@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhanraj Uchimahali
+Hi 👋, I'm Dhanraj Uchimahali
 ==========================================================================================================================================
-
-Backend Developer
------------------
 
 Backend developer with 2+ years of hands-on experience building robust web applications using Node.js, Express.js, PHP, and Laravel. Eager to expand my skillset and readily adapt to new technologies as required.
 
